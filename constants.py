@@ -1,2 +1,2 @@
 
-GROQ_API_KEY = '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'
+GROQ_API_KEY = 'your_groq_api_key'
