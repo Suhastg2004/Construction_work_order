@@ -94,5 +94,5 @@ This project is for **educational purposes only** and does not replace professio
 ---
 
 ## Contact
-For any issues, reach out via [email@example.com](mailto:suhastg1282004@gmail.com).
+For any issues, reach out via [suhastg1282004@gmail.com](mailto:suhastg1282004@gmail.com).
 
