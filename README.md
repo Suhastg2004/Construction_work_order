@@ -28,12 +28,12 @@ source env/bin/activate   # On Windows: env\Scripts\activate
 
 ### 3. Install Dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r req.txt
 ```
 
 ---
 
-## Dependencies (requirements.txt)
+## Dependencies (req.txt)
 ```text
 langchain
 langchain-groq
@@ -47,11 +47,11 @@ streamlit
 2. Store it securely:
    - Option 1: Create a `.env` file and add:  
      ```
-     GROQ_API_KEY=your_api_key_here
+     GROQ_API_KEY=your_groq_api_key
      ```
    - Option 2: Set it as an environment variable:  
      ```bash
-     export GROQ_API_KEY="your_api_key_here"
+     export GROQ_API_KEY="your_groq_api_key"
      ```
 
 ---
